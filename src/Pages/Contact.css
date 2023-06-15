@@ -1,0 +1,12 @@
+.contact1{
+    display: flex;
+    justify-content: center;
+}
+.contact-b{
+    color: #FF3B34;
+    font-weight: 700;
+    font-size: larger;
+}
+.contact-call2{
+    height: 70px;
+}

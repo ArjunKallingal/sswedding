@@ -1,0 +1,40 @@
+.footer {
+    width: 100%;
+    background-color: #FF3B34;
+}
+
+.copyright {
+    text-align: center;
+    color: rgba(240, 248, 255, 0.658);
+}
+
+@media (max-width: 768px) {
+    .footer {
+        margin-top: 20px;
+    }
+}
+
+.nan {
+    color: inherit;
+    /* Inherit the color from the parent */
+    text-decoration: none;
+}
+.nan:hover,
+.nan:active {
+    font-size: 105%;
+    text-decoration: none;
+    color: white;
+}
+.foot-email {
+    font-size: small;
+}
+.ex2{
+    text-decoration: none;
+    color: white;
+}
+a.ex2:hover,
+a.ex2:active {
+    font-size: 120%;
+    text-decoration: none;
+    color: white;
+}

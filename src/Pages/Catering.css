@@ -1,0 +1,21 @@
+.cat-img{
+    height: 200px;
+    border-radius: 25px;
+    width: 250px;
+    transition: transform .7s;
+    /* Animation */
+    margin: 0 auto;
+}
+.cat-img:hover,
+.cat-img:active {
+    transform: scale(1.1);
+}
+.row{
+    display: flex;
+    justify-content: center;
+}
+@media (max-width : 800px){
+    .ccr{
+        display: contents;
+    }
+}

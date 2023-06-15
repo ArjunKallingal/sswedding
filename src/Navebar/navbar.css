@@ -1,0 +1,7 @@
+.bg1 {
+    background-color: #FF6F61;
+    box-shadow: -1px 4px 5px 0px #494545;
+    position: sticky;
+    z-index: 100;
+    top: -5px;
+}
